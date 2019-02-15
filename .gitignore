@@ -1,0 +1,10 @@
+wp-content/ai1wm-backups
+wp-content/plugins
+wp-content/cache
+wp-content/uploads
+wp-content/updraft
+wp-includes
+wp-admin
+.htaccess
+wp-config.php
+
