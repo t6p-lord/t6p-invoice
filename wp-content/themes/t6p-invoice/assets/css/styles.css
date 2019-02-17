@@ -1,0 +1,21 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-size: 15px;
+}
+
+.fz-small {
+  /* font-size: 14px; */
+}
+
+.table-head {
+  background-color: #110F27;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 5px 0;
+  text-align: center;
+  text-transform: uppercase;
+}

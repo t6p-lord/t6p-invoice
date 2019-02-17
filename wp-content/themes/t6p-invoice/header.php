@@ -7,4 +7,4 @@
         <title><?= get_the_title(); ?></title>
         <?php wp_head(); ?>
     </head>
-    <main>
+    <main class="bg-light">
